@@ -1,0 +1,370 @@
+/*---------------------BODY------------------*/
+body
+{
+
+margin:10px;
+background-color:teal;
+border:Yellow thin solid; 
+
+padding:10px;
+}
+
+/*-----------------------------------------------------------*/
+.imagec
+{
+border-color:#ffcf79;
+border-radius:10px;
+border-style:ridge;
+padding:10px;
+background-color:rgb(230,22,230);
+height:400px;
+width:410px;
+margin-top:56px;
+}
+
+
+#table1
+{
+background-color:Teal;
+border: #e5e4d7 thick groove; 
+font-style:italic;
+padding:10px;
+font-size:17px;
+margin-left:130px;
+width:500px;
+}
+#pera1
+{
+  border: White thick groove; 
+font-size:20px;
+padding:10px;
+
+background-color:#e7e7e7;
+}
+
+#rao
+{
+  border: White thick groove;
+ border-radius:5px;
+paddind:10px;
+margin:20px;
+font-size:20px;
+padding:10px;
+background-color:#e7e7e7;
+
+   
+}
+
+#image
+{
+  folt:left;
+   margin-right:10px;
+height:150px;
+
+
+ 
+}
+
+
+/*-----------------------------------------------------------*/
+
+ul li a {
+         
+         
+         font-size:20px;
+
+}
+
+
+
+
+li
+{
+      dispaly:inline;
+      font-size:20px;
+}
+ul{
+   
+  list-style:none;
+padding:20px;
+  
+  }
+a
+{
+   text-decoration:none;
+  
+}
+
+
+a:hover
+{
+  color:#000;
+   cursor:url;
+   background-color:#dadada; 
+}
+
+.button
+{
+   background:#e7e7e7;
+   border:1px;
+   border-radius:3px;
+   font:700 13px Helvetical,arial;
+   height:30px;
+   line-height:28px;
+   padding:0 20px;
+   
+   margin-right:25px;
+ margin-left:50px;
+ float:left;
+}
+
+/*-----------------------------------------------------------*/
+
+
+#chari1
+{
+  
+ 
+paddind:10px;
+font-size:20px;
+padding:10px;
+background-color:#e7e7e7;
+   height:200px;
+overflow:scroll;
+}
+/*-----------------------------------------------------------*/
+#chari11
+{
+  background-color:Green;
+background:linear-gradient(Green 50% ,Yellow 50% );
+opacity:0.5;
+
+margin:10px;
+padding:15px;
+}
+
+#chari11:hover
+
+
+{
+  opacity:1.0;
+cursor:grab;
+
+    
+}
+/*-----------------------------------------------------------*/
+#chari12
+{
+    background-color:Read;
+background:linear-gradient(Read 50%,Block 50%);
+height:300px;
+width:400px;
+ margin:10px;
+padding:15px;
+overflow:scroll;
+
+ /*-----------------------------------------------------------*/  
+}
+#m1:hover
+{
+
+background-color:#155;
+
+   
+cursor:grab;
+}
+
+#m1
+{  
+    background-color:yellow;
+    
+}
+
+/*---------------------HEAD LINES------------------*/
+
+h1
+{
+background-color:Blue;
+  text-align:center;
+border-radius:10px;
+border-style:dashed;
+border-color:Aqua;
+color:#ffcf79;
+}
+
+
+h2
+{
+   text-align: center;
+  text-decoration:underline;
+  font-size:26px;
+ }
+
+
+h4
+{
+background-color:Read;
+  text-align:center;
+border-radius:10px;
+border-style:;
+border-color:Fuchsia
+color:#e5e4d7;
+}
+ 
+
+/*---------------------HEAD LINES------------------*/
+
+   
+#div1
+{
+    width:1000px;
+margin:0px auto;
+      height:950px;
+    border:#000 2px solid;
+   backgroun-color:Read;
+
+}
+  
+#div2
+{
+   float:left;
+     width:150px; 
+    height:948px;
+    border:#000 2px solid;
+   
+}
+ 
+#div3
+{
+   float:right;
+     width:100px;
+    width-left:2px; 
+    height:950px;
+    border:#000 2px solid;
+   
+}
+
+
+/*--------------------Page4------------------*/
+#tid
+{
+   
+
+font-style:italic;
+
+font-size:25px;
+ 
+margin:0px auto;
+
+}
+
+
+#div12
+{
+    position:relative;
+
+margin-top:60px;
+
+margin-right:99px;
+
+float:right;
+clear:left;
+}
+
+
+#div5
+{
+       background:#e7e7e7;
+  border: White thick groove;
+ padding:15px;
+margin-top:20px;
+}
+
+
+#myfile
+{
+
+
+  
+font-size:15px;
+
+}
+
+#ramu{height:40px;
+font-size:19px;}
+#shaik1{height:40px;
+font-size:19px;}
+# text1{height:40px;
+font-size:19px;}
+#text3{height:40px;
+font-size:19px;}
+
+#a{height:40px;
+font-size:19px;}
+#b{height:40px;
+font-size:19px;}
+#c{height:40px;
+font-size:19px;}
+#d{height:40px;
+font-size:19px;}
+
+#male{height:40px;
+font-size:19px;}
+#female{height:40px;
+font-size:19px;}
+
+#date1{height:40px;
+font-size:19px;}
+#State{height:40px;
+font-size:19px;}
+#District{height:40px;
+font-size:19px;}
+
+
+#text1{height:40px;
+font-size:19px;}
+
+#submit
+{
+height:40px;
+font-size:19px;
+margin-left:500px;
+margin-top:50px;
+
+background-color:209661;
+ 
+
+}
+#m11
+{
+background-color:#89ebea;
+}
+
+
+
+#Foot {
+    width: auto;
+    height: auto;
+    background-color:seagreen;
+}
+
+#Head {
+    width: auto;
+    height: auto;
+    background-color:wheat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

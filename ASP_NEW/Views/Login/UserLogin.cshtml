@@ -1,0 +1,16 @@
+﻿
+@model User
+
+    <form asp-controller="LoginDisplay" asp-action="Display"  method="post">
+
+          <label>FirstName</label>
+        <input type="text" asp-for="Firstname" />
+          <br />
+           <label>LastName</label>
+        <input type="text"  asp-for="Lastname"   />
+            <br />
+         <input type="submit"  value="Save"/>
+    </form>
+
+
+

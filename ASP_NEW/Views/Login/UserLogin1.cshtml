@@ -1,0 +1,42 @@
+﻿@model ASP_NEW.Model.reg
+@{
+    Layout = null;
+}
+    
+
+
+    <html>
+    <head>
+     <title>User Registration</title>
+    <link rel="stylesheet" href="/Nani/StyleSheet1.css">
+    </head>
+
+    <body>
+
+        <h2>User Registration</h2>
+
+<form asp-controller="NaniBio" asp-action="registration" method="post">
+
+
+    <label>Full Name</label><br>
+        <input type="text" asp-for="FullName" placeholder="Enter full name">
+    <br><br>
+
+    <label>Email</label><br>
+    <input type="email" asp-for="Email" placeholder="Enter email">
+    <br><br>
+
+    <label>Phone Number</label><br>
+    <input type="text" asp-for="PhoneNumber" placeholder="Enter phone number">
+    <br><br>
+
+    <label>City</label><br>
+    <input type="text" asp-for="City" placeholder="Enter city">
+    <br><br>
+
+    <button type="submit">Register</button>
+
+</form>
+
+</body>
+</html>
